@@ -1,12 +1,12 @@
 # QuantityOrder-Analysis
 
-## 🔍 Project Overview
+##Project Overview
 This project analyzes quantity order data to uncover patterns, detect outliers, and prepare the dataset for predictive modeling.  
 It demonstrates a full **data analyst workflow** from raw data to insights using Python.
 
 ---
 
-## 🎯 Objective
+##  Objective
 - Clean and prepare raw quantity order data
 - Explore distributions and trends
 - Detect and handle outliers
@@ -15,7 +15,7 @@ It demonstrates a full **data analyst workflow** from raw data to insights using
 
 ---
 
-## 🧹 Data Cleaning & Wrangling
+##  Data Cleaning & Wrangling
 - Handled missing values
 - Removed duplicates
 - Corrected inconsistent data types
@@ -23,7 +23,7 @@ It demonstrates a full **data analyst workflow** from raw data to insights using
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 - Distribution analysis
 - Summary statistics
 - Outlier detection using IQR and visual inspection
@@ -31,7 +31,7 @@ It demonstrates a full **data analyst workflow** from raw data to insights using
 
 ---
 
-## 📈 Visualizations
+## Visualizations
 - Histograms and boxplots
 - Trend and distribution charts
 - Outlier visualization for decision-making
@@ -50,7 +50,7 @@ It demonstrates a full **data analyst workflow** from raw data to insights using
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - Python
 - Pandas
 - NumPy
