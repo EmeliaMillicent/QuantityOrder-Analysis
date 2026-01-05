@@ -1,6 +1,4 @@
 # QuantityOrder-Analysis
-Data analysis and ML on quantity order dataset
-
 
 ## 🔍 Project Overview
 This project analyzes quantity order data to uncover patterns, detect outliers, and prepare the dataset for predictive modeling.  
