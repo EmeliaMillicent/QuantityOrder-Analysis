@@ -40,7 +40,7 @@ It demonstrates a full **data analyst workflow** from raw data to insights using
 
 ---
 
-## 🤖 Machine Learning Preparation
+##  Machine Learning Preparation
 - Feature selection
 - Data scaling
 - Train-test split
